@@ -29,12 +29,12 @@ Data from Australian Tax Data reveals gender pay gaps in same occupation. It is 
 WORK DONE ->
 The dataset provided was inconsistent with the result I was expecting. 
 
-https://user-images.githubusercontent.com/32226479/32413125-16fc7298-c1c8-11e7-98e4-37df18abc876.png
+![ScreenShot](https://user-images.githubusercontent.com/32226479/32413125-16fc7298-c1c8-11e7-98e4-37df18abc876.png)
 
 I needed to add new columns using the data of only 1 column. Eg. I wanted a female income & male income column instead of average taxable income and I wanted female workers & male workers instead of individuals to calculate the differences and compare. 
 I tried various methods and applied various syntaxes to get the desired result but failed. Finally, I manually updated the data in excel sheet and computed the differences into a different column.
 
-https://user-images.githubusercontent.com/32226479/32413128-2a4b8640-c1c8-11e7-8c52-0f56a634a9cf.png
+![ScreenShot](https://user-images.githubusercontent.com/32226479/32413128-2a4b8640-c1c8-11e7-8c52-0f56a634a9cf.png)
 
 Finally, when I compared these 2 differences (individuals working vs pay gap), the graph was not showing data points in the visualization.
 
