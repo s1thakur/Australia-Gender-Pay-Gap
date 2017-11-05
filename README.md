@@ -57,8 +57,11 @@ WARRANT: http://data.wgea.gov.au/industries/1
 ACTIONS: 
 
 	Identify income disparity to solve the problem. Make your progress publicly known.
+
 	Set equal pay for same job, same qualification.
+
 	Introduce strict equal gender strategy & policies.
+
 	Include family friendly workplace
 
 References:
